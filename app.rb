@@ -1,4 +1,3 @@
-# -*- encoding: utf-8 -*-
 require 'sinatra'
 require 'json'
 require 'net/http'
