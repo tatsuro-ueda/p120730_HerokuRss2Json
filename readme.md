@@ -1,4 +1,4 @@
-## RSS Reader Application on Heroku
+## RSS to JSON converter application on Heroku
 
 Application is running at the site below:
 
